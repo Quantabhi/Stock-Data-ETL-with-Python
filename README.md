@@ -14,7 +14,7 @@ Built a Python-based data pipeline to fetch SBI stock price data using yFinance,
       <strong>scripts/</strong> – Python scripts for ETL and visualization
       <ul>
         <li><code>load.py</code> – Fetches SBIN stock data and uploads to Supabase</li>
-        <li><code>plotdata.py</code> – Reads from Supabase and plots the Close price</li>
+        <li><code>cleandata.py</code> – Reads from Supabase and plots the Close price</li>
       </ul>
     </li>
     <li>
@@ -27,3 +27,4 @@ Built a Python-based data pipeline to fetch SBI stock price data using yFinance,
   </ul>
 </body>
 </html>
+![sbin](https://github.com/user-attachments/assets/1e3214b0-378b-4357-a563-47052d1fbc92)
