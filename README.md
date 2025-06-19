@@ -6,7 +6,6 @@ Built a Python-based data pipeline to fetch SBI stock price data using yFinance,
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>SBIN Stock Pipeline Project Structure</title>
 </head>
 <body>
   <h1>sbin-stock-pipeline/</h1>
@@ -25,7 +24,6 @@ Built a Python-based data pipeline to fetch SBI stock price data using yFinance,
       </ul>
     </li>
     <li><code>README.md</code> – Project overview and instructions</li>
-    <li><code>requirements.txt</code> – Python dependencies</li>
   </ul>
 </body>
 </html>
