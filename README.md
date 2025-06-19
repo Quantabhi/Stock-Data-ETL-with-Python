@@ -29,7 +29,9 @@ Built a Python-based data pipeline to fetch SBI stock price data using yFinance,
 </html>
 <!DOCTYPE html>
 <html>
-  <head><title>SBIN Pipeline</title></head>
+  <head>
+    <title>SBIN Pipeline</title>
+  </head>
   <body>
     <img src="https://github.com/user-attachments/assets/1e3214b0-378b-4357-a563-47052d1fbc92" alt="SBIN Stock Pipeline" style="max-width:100%;">
   </body>
